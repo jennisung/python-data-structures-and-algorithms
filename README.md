@@ -6,7 +6,7 @@ See [setup instructions](https://codefellows.github.io/setup-guide/code-301/2-co
 
 ### 301 Code Challenges
 
-Under the `javascript` folder, at the top level, is a sub-folder called `code-challenges`
+Under the `python` folder, at the top level, is a sub-folder called `code-challenges`
 
 Each day, you'll add one new file to this folder to do your work for the day's assigned code challenge
 
@@ -14,7 +14,7 @@ If you have not already done so, run `npm install` from within this folder to se
 
 To run your tests
 
-- Change to the `javascript` folder
+- Change to the `python` folder
 - run `npm test` to run all of the tests
 - run `npm test ##` to only run tests for challenge ## (i.e. 01)
 
